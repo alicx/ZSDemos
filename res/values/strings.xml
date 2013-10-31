@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeafDemos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="condition_widget_test">A、条件筛选组件测试</string>
+    
+    
+    
+    <string name="select_alltype">全部分类</string>
+    <string name="select_allcity">全城</string>
+    <string name="select_sortnear">离我最近</string>
+    
+    
+    <string name="core_hr">线条</string>
+    <string name="core_img">辅助图片</string>
+
+</resources>
